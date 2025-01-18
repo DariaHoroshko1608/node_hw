@@ -1,0 +1,78 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+*.lock
+*.cache
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS files
+.DS_Store
+
+# Environmental files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Testing
+coverage/
+junit.xml
+*.lcov
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Generated files
+*.generated.*
+
+# Static analysis tools
+.eslintcache
+stylelintcache
+
+# CI/CD
+.cache/
+out/
+.next/
+
+# Optional bundler cache
+.cache/
+.parcel-cache/
+
+# Storybook build
+storybook-static/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Compiled JavaScript
+*.tsbuildinfo
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
